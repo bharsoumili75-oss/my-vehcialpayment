@@ -35,7 +35,7 @@ The contract allows users to record payment transactions associated with a uniqu
 
 **Contract Address:**
 `CCZXV53VEFVZ457DG3NZQSJ35RDWXW5KMLYSBAVFA5YLIBLLNJGTBNEA`
-
+https://stellar.expert/explorer/testnet/contract/CCZXV53VEFVZ457DG3NZQSJ35RDWXW5KMLYSBAVFA5YLIBLLNJGTBNEA
 ---
 
 ## 🛠️ Tech Stack
